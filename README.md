@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juan Uceta Polanco
-- 👀 I’m interested in software development and looking forward to get new challenges.
+- 👀 I’m interested in software development and looking forward to get new challenges, have pretty good knowledge and experience with python including both frameworks(Django and Flask).
 - 🌱 Currently learning Full-Stack Development.
 - 💞️ I’m looking to collaborate on building awesome websites and applications.
 - 📫 You can find me on linkedin https://www.linkedin.com/in/juan-elvin-uceta09/.
